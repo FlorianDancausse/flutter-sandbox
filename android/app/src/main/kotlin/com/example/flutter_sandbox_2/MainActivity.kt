@@ -1,4 +1,4 @@
-package com.example.flutter_sandbox_2
+package com.example.flutter_sandbox
 
 import io.flutter.embedding.android.FlutterActivity
 
